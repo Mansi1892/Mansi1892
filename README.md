@@ -40,7 +40,3 @@ I am extending that foundation into applied AI through hands-on work with Python
 - M.Tech (Hons.) in Information Security — Birla Institute of Technology, Ranchi
 - B.Tech (Hons.) in Computer Science — SRMS, Bareilly
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136) · [Email](mailto:mansigangwar18@gmail.com) · [GitHub](https://github.com/Mansi1892) · [Download resume](https://github.com/Mansi1892/AI-Portfolio/raw/main/portfolio-website/assets/Mansi_Gangwar_Resume.pdf)
