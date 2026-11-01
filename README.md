@@ -44,3 +44,7 @@ I combine that backend foundation with applied AI engineering using Python, Fast
 - M.Tech (Hons.) in Information Security — Birla Institute of Technology, Ranchi
 - B.Tech (Hons.) in Computer Science — SRMS, Bareilly
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+## Let's connect
+
+If you are building reliable enterprise platforms, distributed systems, or applied AI products—or hiring for a team that values scalable architecture and thoughtful engineering—[send me an email](mailto:mansigangwar18@gmail.com) or [connect with me on LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136).
