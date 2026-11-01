@@ -27,7 +27,7 @@ I combine that backend foundation with applied AI engineering using Python, Fast
 
 ## Voluntary project contribution
 
-**CARPL website redesign** — Contributed voluntarily to a private Next.js and Sanity CMS website redesign to deepen my hands-on frontend and content-platform experience. My work included responsive interface refinements, CMS-driven pages, embedded forms, and production UI fixes. This was a learning collaboration, not an employment engagement.
+**CARPL website redesign — Volunteer contributor.** Contributed to a private Next.js and Sanity CMS website redesign as a learning collaboration. My contributions included responsive UI and CMS-driven content improvements, embedded forms, production fixes, and pull-request coordination for geographic routing and production-cutover readiness. This was project-based learning, not employment.
 
 ## Technical profile
 
