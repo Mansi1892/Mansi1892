@@ -6,7 +6,7 @@
 
 Java & Spring · Event-driven systems · AI applications · Agentic workflows
 
-[Portfolio](https://mansi1892.github.io/AI-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136) · [Email](mailto:mansigangwar18@gmail.com) · [Resume](https://github.com/Mansi1892/AI-Portfolio/blob/main/portfolio-website/assets/Mansi_Gangwar_Resume.pdf)
+[Portfolio](https://mansi1892.github.io/ai-engineering-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136) · [Email](mailto:mansigangwar18@gmail.com) · [Resume](https://github.com/Mansi1892/ai-engineering-portfolio/blob/main/portfolio-website/assets/Mansi_Gangwar_Resume.pdf)
 
 </div>
 
