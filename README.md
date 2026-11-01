@@ -12,11 +12,11 @@ Java & Spring · Event-driven systems · AI applications · Agentic workflows
 
 ## About
 
-I am a senior software engineer at SAP Labs with more than eight years of experience building enterprise SaaS, Java services, REST APIs, microservices, and multi-tenant distributed systems.
+I am a senior software engineer at SAP Labs with more than eight years of experience building enterprise SaaS and microservices for SAP SuccessFactors. My work spans Java and Spring services, REST APIs, event-driven architecture, and multi-tenant distributed systems.
 
 I combine that backend foundation with applied AI engineering using Python, FastAPI, LLM integrations, retrieval patterns, tool calling, and agent orchestration. My focus is the engineering around the model: explicit data flows, validation, persistence, observability, human approval, and reliable failure handling.
 
-**Focus:** Backend engineering · Distributed systems · Applied AI · RAG · Agentic workflows · Reliability and performance
+**Focus:** Backend engineering · Microservices · Distributed systems · Applied AI · RAG · Agentic workflows · Reliability and performance
 
 ## Engineering impact
 
