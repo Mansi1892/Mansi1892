@@ -14,7 +14,7 @@ Java & Spring · Event-driven systems · AI applications · Agentic workflows
 
 I am a senior software engineer at SAP Labs with more than eight years of experience building enterprise SaaS, Java services, REST APIs, microservices, and multi-tenant distributed systems.
 
-I am extending that foundation into applied AI through hands-on work with Python, FastAPI, LLM integrations, retrieval patterns, tool calling, and agent orchestration. I care about the engineering around the model: explicit data flows, validation, persistence, observability, human approval, and reliable failure handling.
+I combine that backend foundation with applied AI engineering using Python, FastAPI, LLM integrations, retrieval patterns, tool calling, and agent orchestration. My focus is the engineering around the model: explicit data flows, validation, persistence, observability, human approval, and reliable failure handling.
 
 **Focus:** Backend engineering · Distributed systems · Applied AI · RAG · Agentic workflows · Reliability and performance
 
@@ -24,6 +24,10 @@ I am extending that foundation into applied AI through hands-on work with Python
 - Designed Kafka-based event-driven microservices processing millions of events per day.
 - Built distributed services for complex organizational and hierarchical data workflows.
 - Led a team of 4 engineers, mentored 10+ engineers, and reviewed 500+ pull requests.
+
+## Voluntary project contribution
+
+**CARPL website redesign** — Contributed voluntarily to a private Next.js and Sanity CMS website redesign to deepen my hands-on frontend and content-platform experience. My work included responsive interface refinements, CMS-driven pages, embedded forms, and production UI fixes. This was a learning collaboration, not an employment engagement.
 
 ## Technical profile
 
