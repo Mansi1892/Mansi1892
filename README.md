@@ -1,0 +1,65 @@
+<div align="center">
+
+# Mansi Gangwar
+
+### Senior Software Engineer · Applied AI & Distributed Systems
+
+Java & Spring · Event-driven systems · AI applications · Agentic workflows
+
+[Portfolio](https://mansi1892.github.io/AI-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136) · [Email](mailto:mansigangwar18@gmail.com) · [Resume](https://github.com/Mansi1892/AI-Portfolio/blob/main/portfolio-website/assets/Mansi_Gangwar_Resume.pdf)
+
+</div>
+
+## About
+
+I am a senior software engineer at SAP Labs with more than eight years of experience building enterprise SaaS, Java services, REST APIs, microservices, and multi-tenant distributed systems.
+
+I am extending that foundation into applied AI through hands-on work with Python, FastAPI, LLM integrations, retrieval patterns, tool calling, and agent orchestration. I care about the engineering around the model: explicit data flows, validation, persistence, observability, human approval, and reliable failure handling.
+
+**Focus:** Backend engineering · Distributed systems · Applied AI · RAG · Agentic workflows · Reliability and performance
+
+## Engineering impact
+
+- Reduced backend latency from approximately 1 second to under 200 milliseconds using caching and reliability patterns.
+- Designed Kafka-based event-driven microservices processing millions of events per day.
+- Built distributed services for complex organizational and hierarchical data workflows.
+- Led a team of 4 engineers, mentored 10+ engineers, and reviewed 500+ pull requests.
+
+## Selected work
+
+### [Smart Meal AI](https://smart-meal-ai-one.vercel.app)
+
+An original full-stack AI meal-planning application for Indian households, with structured generation, dietary and budget validation, Supabase persistence, family-level personalization, and optional Telegram or WhatsApp approval workflows.
+
+`Python` · `FastAPI` · `React` · `Supabase` · `LLM orchestration`
+
+[Live application](https://smart-meal-ai-one.vercel.app) · [Source](https://github.com/Mansi1892/cooking-agent)
+
+### [AI Engineering Portfolio](https://github.com/Mansi1892/AI-Portfolio)
+
+A source-first collection of AI applications, agentic workflows, RAG systems, automation projects, and architecture documentation. Original and contributed/adapted work is labeled transparently.
+
+`AI agents` · `RAG` · `n8n` · `React` · `Distributed systems`
+
+[Portfolio website](https://mansi1892.github.io/AI-Portfolio/) · [Repository](https://github.com/Mansi1892/AI-Portfolio)
+
+## Technical profile
+
+| Area | Technologies and practices |
+|---|---|
+| Backend | Java, Spring Boot, Spring MVC, REST APIs, microservices |
+| Distributed systems | Kafka, event-driven architecture, Redis, reliability, performance |
+| Applied AI | Python, FastAPI, LLM integration, agents, tool calling, RAG concepts |
+| Data | SQL, PostgreSQL, Supabase, multi-tenant data models |
+| Delivery | GitHub Actions, cloud applications, CI/CD, production operations |
+
+## Education and certification
+
+- M.Tech (Hons.) in Information Security — Birla Institute of Technology, Ranchi
+- B.Tech (Hons.) in Computer Science — SRMS, Bareilly
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136) · [Email](mailto:mansigangwar18@gmail.com) · [GitHub](https://github.com/Mansi1892) · [Download resume](https://github.com/Mansi1892/AI-Portfolio/raw/main/portfolio-website/assets/Mansi_Gangwar_Resume.pdf)
+
