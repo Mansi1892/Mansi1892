@@ -25,24 +25,6 @@ I am extending that foundation into applied AI through hands-on work with Python
 - Built distributed services for complex organizational and hierarchical data workflows.
 - Led a team of 4 engineers, mentored 10+ engineers, and reviewed 500+ pull requests.
 
-## Selected work
-
-### [Smart Meal AI](https://smart-meal-ai-one.vercel.app)
-
-An original full-stack AI meal-planning application for Indian households, with structured generation, dietary and budget validation, Supabase persistence, family-level personalization, and optional Telegram or WhatsApp approval workflows.
-
-`Python` · `FastAPI` · `React` · `Supabase` · `LLM orchestration`
-
-[Live application](https://smart-meal-ai-one.vercel.app) · [Source](https://github.com/Mansi1892/cooking-agent)
-
-### [AI Engineering Portfolio](https://github.com/Mansi1892/AI-Portfolio)
-
-A source-first collection of AI applications, agentic workflows, RAG systems, automation projects, and architecture documentation. Original and contributed/adapted work is labeled transparently.
-
-`AI agents` · `RAG` · `n8n` · `React` · `Distributed systems`
-
-[Portfolio website](https://mansi1892.github.io/AI-Portfolio/) · [Repository](https://github.com/Mansi1892/AI-Portfolio)
-
 ## Technical profile
 
 | Area | Technologies and practices |
@@ -62,4 +44,3 @@ A source-first collection of AI applications, agentic workflows, RAG systems, au
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/mansi-gangwar-588551136) · [Email](mailto:mansigangwar18@gmail.com) · [GitHub](https://github.com/Mansi1892) · [Download resume](https://github.com/Mansi1892/AI-Portfolio/raw/main/portfolio-website/assets/Mansi_Gangwar_Resume.pdf)
-
